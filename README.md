@@ -1,4 +1,4 @@
-# Exploring Sentiment Analysis of Twitter Data: Understanding Public Opinion
+# Exploring Sentiment Analysis of Twitter Data
 
 This project leverages sentiment analysis techniques to explore public opinion by analyzing Twitter data. By collecting tweets related to specific topics or hashtags, it applies natural language processing (NLP) and machine learning techniques to determine the sentiment behind each tweet. The goal is to understand how people feel about specific topics, brands, or events by analyzing positive, negative, or neutral sentiments in real time.
 
